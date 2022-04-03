@@ -1,0 +1,17 @@
+D:\BookDB\BookDB\obj\Debug\BookDB.csproj.AssemblyReference.cache
+D:\BookDB\BookDB\obj\Debug\BookDB.Properties.Resources.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.csproj.GenerateResource.cache
+D:\BookDB\BookDB\obj\Debug\BookDB.csproj.CoreCompileInputs.cache
+D:\BookDB\BookDB\bin\Debug\BookDB.exe.config
+D:\BookDB\BookDB\bin\Debug\BookDB.exe
+D:\BookDB\BookDB\bin\Debug\BookDB.pdb
+D:\BookDB\BookDB\obj\Debug\BookDB.exe
+D:\BookDB\BookDB\obj\Debug\BookDB.pdb
+D:\BookDB\BookDB\obj\Debug\BookDB.BookDB_Login.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.admin2.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.BookDB_Admin.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.admin21.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.admin23.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.BookDB_User.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.user2.resources
+D:\BookDB\BookDB\obj\Debug\BookDB.user3.resources
